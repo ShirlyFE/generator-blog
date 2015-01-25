@@ -1,4 +1,4 @@
-# generator-blog [![Build Status](https://secure.travis-ci.org/shirlyLoveU/generator-blog.png?branch=master)](https://travis-ci.org/shirlyLoveU/generator-blog)
+# generator-blog 
 
 > [Yeoman](http://yeoman.io) generator
 
